@@ -1,5 +1,5 @@
 # Resumo do Lab - DIO
-- Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO. -
+- Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO.
 
 Durante o desenvolvimento deste laboratório na DIO, tive a oportunidade de aprofundar meus conhecimentos em diversas áreas essenciais para a programação e desenvolvimento de software.
 
