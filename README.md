@@ -1,7 +1,6 @@
-# resumo-do-lab
-Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO.
+# Resumo do Lab - DIO
+- Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO. -
 
-Resumo do Lab - DIO
 Durante o desenvolvimento deste laboratório na DIO, tive a oportunidade de aprofundar meus conhecimentos em diversas áreas essenciais para a programação e desenvolvimento de software.
 
 Aprendi a importância dos testes unitários e a aplicação da técnica TDD (Test Driven Development), que ajuda a garantir a qualidade e robustez do código, facilitando a manutenção e evolução das aplicações.
