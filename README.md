@@ -13,6 +13,10 @@ A compreensão da arquitetura cliente-servidor, virtualização, contêineres e 
 
 No front-end, aprofundei meu conhecimento em JavaScript, TypeScript, Next.js e React.js, tecnologias que possibilitam construir interfaces modernas, responsivas e altamente performáticas, alinhadas às melhores práticas do mercado.
 
+Além disso, adquiri experiência com Docker para criar, gerenciar e orquestrar containers, facilitando o deploy e a portabilidade das aplicações.
+
+Aprofundei-me também em C#, uma linguagem versátil e robusta para desenvolvimento back-end, e no Entity Framework, que simplifica o acesso e manipulação de bancos de dados relacionais, facilitando a criação de aplicações com arquitetura limpa e eficiente.
+
 Por fim, entendi a importância da documentação, controle de versão com Git e GitHub para a colaboração e organização dos projetos.
 
 Esse lab contribuiu significativamente para meu crescimento profissional, me deixando mais preparado para enfrentar desafios reais no desenvolvimento de software.
